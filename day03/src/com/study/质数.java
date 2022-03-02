@@ -15,6 +15,7 @@ public class 质数 {
                     isFlag = false;
                 }
             }
+            //
             if (isFlag){
                 System.out.println(i + "是质数");
             }
