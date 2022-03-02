@@ -18,7 +18,7 @@ public class 质数 {
             if (isFlag){
                 System.out.println(i + "是质数");
             }
-            // 必须把isFlag给重置
+            // 必须把isFlag给重置 不然不给只能输出2和3
             isFlag = true;
         }
     }
