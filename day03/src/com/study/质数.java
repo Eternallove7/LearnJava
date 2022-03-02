@@ -10,7 +10,7 @@ public class 质数 {
         boolean isFlag = true;
 
         for (int i = 2;i <= num;i++){
-            for (int j = 2;j < i - 1;j++){
+            for (int j = 2;j < i;j++){
                 if (i % j == 0){
                     isFlag = false;
                 }
