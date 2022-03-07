@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ca903500-43c5-4924-9879-a1977b8ec55d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/day06/com/数组/ArrayTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day06/com/数组/ArrayTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/day06/com/数组/ArrayTest1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day06/com/数组/ArrayTest1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/day06/com/数组/ArrayTest2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day06/com/数组/ArrayTest2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/day06/com/数组/ArrayTest3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day06/com/数组/ArrayTest3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/day06/com/数组/protect.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day06/com/数组/protect.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/day06/com/数组/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day06/com/数组/test.class" afterDir="false" />
-    </list>
+    <list default="true" id="ca903500-43c5-4924-9879-a1977b8ec55d" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
