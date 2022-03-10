@@ -1,5 +1,7 @@
 package com.study;
 
+import java.io.Writer;
+
 /**
  *
  * 可变个数的形参:数据类型 ... 参数名
