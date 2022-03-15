@@ -1,7 +1,5 @@
 package com.study.exer4;
 
-import com.study.exer3.Account;
-
 public class Customer {
 
     private String firstName;
