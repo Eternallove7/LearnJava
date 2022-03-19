@@ -1,8 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ab346f0-cf33-4d08-819e-505790994fbd" name="Changes" comment="day11">
-      <change beforePath="$PROJECT_DIR$/src/com/study/java/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/study/java/Test.java" afterDir="false" />
+    <list default="true" id="ef8dc596-ed3e-451b-bb39-45d949e8cfc3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/study/exer/Kids.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/study/exer/KidsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/study/exer/ManKind.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/study/exer1/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/study/exer1/Cylinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/study/exer1/CylinderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/study/exer2/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/study/exer2/AccountTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/study/exer2/CheckAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/study/exer2/CheckAccountTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/study/java/DebugTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/study/java/DebugTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/study/java1/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/study/java1/PersonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/study/java1/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/study/java2/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/study/java2/OrderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/study/java3/InstanceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/study/java3/OrderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/study/java3/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/study/java3/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/study/java3/SubOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/study/java3/SuperTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/study/java4/AnimalTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/study/java4/Man.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/study/java4/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/study/java4/PersonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/study/java4/Woman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/study/java5/InterviewTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project02/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/study/java/Test.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,49 +54,102 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="26UqR2M54Wdjd4yJtVA6L8q2TpU" />
+  <component name="ProjectId" id="26aG2cbMByWnmVUDNNmrlVVWNOV" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="1" id="Add" />
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.CheckAccountTest">
+    <configuration name="AccountTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.study.exer2.AccountTest" />
+      <module name="day12" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.study.exer2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CheckAccountTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.study.exer2.CheckAccountTest" />
+      <module name="day12" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.study.exer2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CylinderTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.study.exer1.CylinderTest" />
+      <module name="day12" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.study.exer1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KidsTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.study.exer.KidsTest" />
+      <module name="day12" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.study.exer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CheckAccountTest" />
+        <item itemvalue="Application.AccountTest" />
+        <item itemvalue="Application.CylinderTest" />
+        <item itemvalue="Application.KidsTest" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="7ab346f0-cf33-4d08-819e-505790994fbd" name="Changes" comment="" />
-      <created>1647488502872</created>
+      <changelist id="ef8dc596-ed3e-451b-bb39-45d949e8cfc3" name="Changes" comment="" />
+      <created>1647654081020</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1647488502872</updated>
+      <updated>1647654081020</updated>
     </task>
-    <task id="LOCAL-00001" summary="day11">
-      <created>1647491141877</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1647491141877</updated>
-    </task>
-    <task id="LOCAL-00002" summary="day11">
-      <created>1647491330470</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1647491330470</updated>
-    </task>
-    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -76,7 +164,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="day11" />
-    <option name="LAST_COMMIT_MESSAGE" value="day11" />
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
